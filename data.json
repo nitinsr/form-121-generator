@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Nitin Sharma HUF",
+    "address": "Flat 101, India",
+    "pan": "ABCDE1234F",
+    "isSenior": false,
+    "email": "nitin@example.com",
+    "countryCode": "+91",
+    "contactNumber": "501234567",
+    "status": "HUF",
+    "taxYear": "2026-2027",
+    "natureOfIncome": "Interest on securities",
+    "place": "India",
+    "declarationDate": "2026-04-01",
+
+    "isin": "INE123A01016",
+    "bondName": "ABC Bond",
+
+    "estimatedIncome": 100000,
+    "form121FiledEarlier": "No",
+    "totalFormsFiledEarlier": 0,
+    "aggregateEarlierIncome": 0,
+    "estimatedTotalIncome": 400000,
+
+    "itrPreviousTwoYears": []
+  },
+    {
+    "name": "Nitin Sharma HUF",
+    "address": "Flat 101, India",
+    "pan": "ABCDE1234F",
+    "isSenior": false,
+    "email": "nitin@example.com",
+    "countryCode": "+91",
+    "contactNumber": "501234567",
+    "status": "HUF",
+    "taxYear": "2026-2027",
+    "natureOfIncome": "Interest on securities",
+    "place": "India",
+    "declarationDate": "2026-04-01",
+
+    "isin": "INE123A010168",
+    "bondName": "ABC Bond2",
+
+    "estimatedIncome": 15000,
+    "form121FiledEarlier": "No",
+    "totalFormsFiledEarlier": 0,
+    "aggregateEarlierIncome": 0,
+    "estimatedTotalIncome": 400000,
+
+    "itrPreviousTwoYears": []
+  }
+]

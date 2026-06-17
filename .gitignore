@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Generated PDFs
+output/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+/node_modules
